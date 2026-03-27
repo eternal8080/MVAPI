@@ -7,7 +7,6 @@ MVAPI is a training-free visual prompting framework that leverages attention mec
 - **Training-free**: No fine-tuning required — uses pre-trained CLIP/SigLIP models directly
 - **Attention-guided masking**: Combines CLS-token attention maps and MLP token maps to produce fine-grained visual masks
 - **Multi-image support**: Handles both single-image and multi-image reasoning scenarios with cross-image attention weighting
-- **Flexible prompting**: Supports multiple prompt strategies (masked, hint, iterative, step-by-step) via configurable templates
 - **Multi-benchmark evaluation**: Ready-to-use scripts for GeoQA, MathVista, MathVision, VCBench, MMSI, ReMI, and MV-MATH
 
 ### Project Structure
